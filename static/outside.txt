@@ -1,0 +1,2 @@
+outside dir in status.
+lets make changes
