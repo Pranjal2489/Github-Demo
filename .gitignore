@@ -1,4 +1,7 @@
 *.log
 /dir
 
-/dir/
+static/dir/
+
+checking
+
